@@ -1,3 +1,3 @@
 # Miss-Euskadi---Espa-a
-Colaboración de diseño para sitio web desarrollado con Wordpress
-Acceda  a  www.saralahidalga.com\web
+Colaboración para sitio web - Apartado de diseño en contrucción
+https://saralahidalga.com/
